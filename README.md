@@ -6,11 +6,12 @@ ME 1670, Introduction to Engineering Graphics and Design, is a course taught at 
 ## Project Overview
 The individual project is a culminatation of hand-sketching and SOLIDWORKS modeling techniques learned over the first half of the course. The goal for the project is to design a small object that will be printed on a commerical SLS 3D printer. I designed a _Spinning Fidget Duck_ toy constructed from two gears and a base plate. 
 
-<img src="https://github.com/andreaxlan/ME1670-Individual/blob/26e62ac60bccacd1b5e7eb277e744ad0f574eed2/SOLIDWORKS%20FILES%20V1.0/ISOMETRIC%20VIEW.png?raw=true" width="400">
 
 # Timeline
 
 ## Spinning Fidget Duck V1.0
+
+<img src="https://github.com/andreaxlan/ME1670-Individual/blob/26e62ac60bccacd1b5e7eb277e744ad0f574eed2/SOLIDWORKS%20FILES%20V1.0/ISOMETRIC%20VIEW.png?raw=true" width="400">
 
 ### 3.14.2026 (Happy 🥧 Day!)
 ➣ Completed SOLIDWORKS CAD draft of _Driven Gear_  
