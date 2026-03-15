@@ -10,8 +10,8 @@ The individual project is a culminatation of hand-sketching and SOLIDWORKS model
 
 ## 3.14.2026 (Happy 🥧 Day!)
 ➣ Completed SOLIDWORKS CAD draft of _Driven Gear_  
-➣ Completed SOLIDWORKS CAD assembly   
-➣ Drafted SOLIDWORKS CAD drawing   
+➣ Completed SOLIDWORKS CAD assembly  
+➣ Issues shelling duck interior - fixed by shrinking body fillet size  
 ➣ Need to revisit mushroom head connector to gear tolerance + gear teeth tolerance  
 
 ## 3.10.2026
