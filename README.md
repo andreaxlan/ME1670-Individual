@@ -13,7 +13,7 @@ The individual project is a culminatation of hand-sketching and SOLIDWORKS model
 
 <img src="https://github.com/andreaxlan/ME1670-Individual/blob/26e62ac60bccacd1b5e7eb277e744ad0f574eed2/SOLIDWORKS%20FILES%20V1.0/ISOMETRIC%20VIEW.png?raw=true" width="400">
 
-### 3.14.2026 (Happy 🥧 Day!)
+### 3.14.2026
 ➣ Completed SOLIDWORKS CAD draft of _Driven Gear_  
 ➣ Completed SOLIDWORKS CAD assembly  
 ➣ Issues shelling duck interior - fixed by shrinking body fillet size  
