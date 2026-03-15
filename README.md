@@ -1,4 +1,4 @@
-# ME1670 Individual Project
+# ME 1670 Individual Project
 
 ## Course Overview
 ME 1670, Introduction to Engineering Graphics and Design, is a course taught at Georgia Tech that introduces students to sketching, line drawing, solid modeling, and drawing specifications. This course utilizes SOLIDWORKS software.
