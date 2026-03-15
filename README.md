@@ -25,5 +25,5 @@ The individual project is a culminatation of hand-sketching and SOLIDWORKS model
 
 ### 3.2.2026
 ➣ Researched diametrical pitch and gear ratio specifications  
-➣ Drafted individual project proposal
+➣ Drafted individual project proposal  
 ➣ Completed digital concept sketches using Krita (open source painting program)
