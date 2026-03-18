@@ -14,7 +14,7 @@ The individual project is a culminatation of hand-sketching and SOLIDWORKS model
 <img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20ISOMETRIC.png" width="400">
 
 ### 3.18.2026
-Minor adjustments were made to some parts. I made the base plate entirely solid to provide more structure and increased the width of the handle on the driving gear since the initial size was very small.
+Minor adjustments were made to some parts. I made the base plate entirely solid to provide more structure and increased the diameter of the handle on the driving gear since the initial size was very small.
 
 <img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20BASE%20PLATE.png" width="500">
 
