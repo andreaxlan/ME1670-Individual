@@ -16,17 +16,19 @@ The individual project is a culminatation of hand-sketching and SOLIDWORKS model
 ### 3.18.2026
 Minor adjustments were made to some parts. I made the base plate entirely solid to provide more structure and increased the diameter of the handle on the driving gear since the initial size was very small.
 
-<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20BASE%20PLATE.png" width="500">
+<br>
 
 The connector head was initially tapered on both ends. This would allow the gears to slide in and out. Since I wanted them to stay in place once the toy was assembled, I removed the bottom taper. (all units in inches)
 
-<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20TOP%20VIEW.png" width="500">
+<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20BASE%20PLATE.png" width="500">
 
 The connector hole diameter is slightly larger than the shaft hole diameter to prevent the gears from sliding out. The most important design consideration for the connectors was making sure the center gap was larger than double the spacing between the edge of the shaft hole and the edge of the widest part of the connector head. This ensures there is enough spacing for the connector plastically deform and clear the shaft hole.
 
-<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20CROSS%20SECTION.png" width="500">
+<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20TOP%20VIEW.png" width="500">
 
 Finally, a 0.01 inch tolerance was included between the shaft hole and connector.
+
+<img src="https://github.com/andreaxlan/ME1670-Individual/blob/96b2c2d893538f79b3b92090d0bad9d38db5a05e/SOLIDWORKS%20FILES%20V2.0/V2.0%20CROSS%20SECTION.png" width="500">
 
 ## Spinning Fidget Duck V1.0
 
